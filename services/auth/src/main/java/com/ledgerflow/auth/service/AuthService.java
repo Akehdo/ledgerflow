@@ -1,4 +1,4 @@
-package com.ledgerflow.auth.service.auth;
+package com.ledgerflow.auth.service;
 
 import com.ledgerflow.auth.domain.session.AuthSession;
 import com.ledgerflow.auth.domain.session.SessionStatus;
